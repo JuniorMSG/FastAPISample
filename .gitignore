@@ -1,5 +1,6 @@
 # IDE
 .idea/
+.idea
 
 # 가상환경
 .venv/
